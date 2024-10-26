@@ -1,0 +1,2 @@
+22102024	16:59:24	e0c85e4f-2eb2-4cc7-9153-5ff391727472	Error: Not allowed by cors
+25102024	11:24:43	77e9a0af-963b-42a1-a6cc-1826917e6a77	Error: ENOENT: no such file or directory, stat 'D:\BalaChandra\Express JS\routes\views\newindex.html'

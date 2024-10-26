@@ -1,0 +1,12 @@
+GET http://localhost:3500/employees/5
+
+###
+
+POST http://localhost:3500/employees
+Content-Type: application/json
+
+ {
+        "id":1,
+        "firstname":"SRIRAM GOKUL",
+        "lastname":"JAYAPRAKASH"
+    } 
